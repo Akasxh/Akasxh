@@ -1,5 +1,5 @@
 ### Hi there 👋
-![]([https://raw.githubusercontent.com/Akasxh/Akasxh/main/Akasxh.gif](https://github.com/Akasxh/Akasxh/blob/main/Profile.gif))
+![](https://github.com/Akasxh/Akasxh/blob/main/Profile.gif)
 <!--
 **Akasxh/Akasxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
