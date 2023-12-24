@@ -2,9 +2,9 @@
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙎 𝘼𝙠𝙖𝙨𝙝
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/akaxsh.x)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/Akasxh)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/s-akash-project-gia/)
+[![](https://img.shields.io/badge/-@Akasxh-%231DA1F2?style=flat-square&logo=instagram)](https://instagram.com/akaxsh.x)
+[![](https://img.shields.io/badge/-@Akasxh-%23181717?style=flat-square&logo=github)](https://github.com/Akasxh)
+[![](https://img.shields.io/badge/-@Akasxh-%23000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/s-akash-project-gia/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Akasxh.me&url=https://akasxh.github.io/)](https://akasxh.github.io/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
