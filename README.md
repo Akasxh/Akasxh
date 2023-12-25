@@ -26,6 +26,6 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-#### Data Structures and Algorithms: Graphs/Trees/Hashmap
+### *Data Structures and Algorithms* : Graphs/Trees/Hashmap
 
-#### Development: Flutter/Fast API/Javascript
+### *Development* : Flutter/Fast API/Javascript
