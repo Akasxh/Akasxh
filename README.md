@@ -5,8 +5,8 @@
 <h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙎 𝘼𝙠𝙖𝙨𝙝</h1>
 
 <p align="center">
-  <a href="https://instagram.com/akaxsh.x">
-    <img src="https://img.shields.io/badge/-@Akasxh-%23181717?style=flat-square&logo=instagram" alt="Instagram">
+  <a href="https://instagram.com/akasxhx.x">
+    <img src="https://img.shields.io/badge/-@Akash-%23181717?style=flat-square&logo=instagram" alt="Instagram">
   </a>
   <a href="https://github.com/Akasxh">
     <img src="https://img.shields.io/badge/-@Akasxh-%23181717?style=flat-square&logo=github" alt="GitHub">
